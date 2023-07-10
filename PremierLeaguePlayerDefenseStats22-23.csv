@@ -1,4 +1,4 @@
-Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,DrblTkl,DrblCh,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
 Brenden Aaronson,us USA,"MF,FW",Leeds United,21,2000,26.4,45,18,16,22,7,15,46,32.6,31,43,3,40,5,50,6,1
 George Abbott,eng ENG,MF,Tottenham,16,2005,0.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
 Che Adams,sct SCO,FW,Southampton,26,1996,22.1,17,13,7,8,2,7,12,58.3,5,13,4,9,4,21,22,0
