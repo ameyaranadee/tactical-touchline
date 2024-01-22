@@ -3,3 +3,8 @@ webdriver_manager
 lxml
 numpy
 pandas
+matplotlib
+adjustText
+Pillow==9.5.0
+soccerplots
+mplsoccer
